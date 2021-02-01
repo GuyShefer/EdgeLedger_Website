@@ -134,6 +134,11 @@ text-secondary {
     padding: 0 40px;
 }
 
+.flex-grid .row img {
+    height:200px;
+} 
+
+
 .flex-grid .column {
     flex: 25%;
     max-width: 25%;
